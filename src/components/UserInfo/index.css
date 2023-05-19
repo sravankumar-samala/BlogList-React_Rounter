@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+.user-info-container {
+  text-align: center;
+}
+.user-profile-pic {
+  width: 100px;
+  aspect-ratio: 1;
+  margin: 0 auto;
+}
+.user-profile-pic img {
+  max-width: 100%;
+}
+.user-info-container p {
+  color: #616e7c;
+}
